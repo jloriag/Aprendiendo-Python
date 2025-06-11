@@ -1,0 +1,8 @@
+A=int(input("Ingresa el precio sin Iva: "))
+print("El precio se guardó exitosamente: ", A)
+B=int(input("Ingrese el IVA: "))
+C=A+(A*B/100)
+print("Vamos a hacer el calculo del IVA: ")
+print("Partimos de un precio sin IVA: ")
+print("El IVA es: ", A*B/100)
+print("El precio ya con el IVA es de: ", C)
