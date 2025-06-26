@@ -1,0 +1,10 @@
+import math
+print("Redondear un numero decimal al entero superior ceil(5.6)", math.ceil(5.6))
+print("Redondear un numnero decimal al entero inferior floor (x)", math.floor(5.6))
+print("Devolver la raiz cuadrada de x sqrt(9)", math.sqrt(9))
+print("Devuelve el valor aproximado de la constante pi pin()", math.pi)
+print("Funciones trigonometricas de seno sin(1200)", math.sin(1200))
+print("Funciones trigonometricas de cos(1200)", math.cos(1200))
+print("Funciones trigonometricas tan(1200)", math.tan(1200))
+print("Convertir radianes a grados degrees(1200)",math.degrees(1200))
+print("Convertir grados a radianes radians(1200)", math.radians(1200))
